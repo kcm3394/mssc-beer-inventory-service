@@ -14,7 +14,7 @@
     <description>MSSC Beer Inventory Service</description>
 
     <properties>
-        <docker.image.prefix>sfgbeerkcm3394</docker.image.prefix>
+        <docker.image.prefix>kcm3394</docker.image.prefix>
     </properties>
 
     <dependencies>
